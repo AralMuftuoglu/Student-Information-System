@@ -1,3 +1,7 @@
-# Student-Information-System
 
-Student Information System project in PL/SQL with the diagram
+# Student Information System  
+
+```sql
+-- Example SQL in README
+SELECT * FROM students WHERE age > 18;
+```
